@@ -37,7 +37,7 @@ export default {
           "Led the creation of a file-sharing service with MongoDB, Express, Node.js, Typescript, Recoil and React.",
           "Developed an activity logger, user registration and React frontend for CRUD actions on a REST API",
           "Integrated the Passport and Bcrypt libraries for user authentication, protected routes, and password hashing.",
-          "Implemented a backend using Node.js, and deployed using MongoDB, AWS Amplify, pipelines with Jenkins, and Docker.",
+          "Implemented a backend using Node.js, and deployed using MongoDB, AWS, pipelines with Jenkins, and Docker.",
         ],
       },
     ],
