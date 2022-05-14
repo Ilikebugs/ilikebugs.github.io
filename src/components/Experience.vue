@@ -29,6 +29,16 @@ export default {
   data: () => ({
     jobs: [
       {
+        company: "GoBolt",
+        position: "Software Developer",
+        time: "May 2022 - August 2022",
+        img: require("@/assets/images/js.png"),
+        responsibilities: [
+          "Worked with Docker, Ruby on Rails, Nest.js, Fastify, Node.js, Typescript and React on a shipping, storage and delivery app for companies to integrate with online stores and deliver orders to their customers..",
+          "Created data adapters and integrated Shopify's API for use in the company's apps, and added order information to the UI for clients.",
+        ],
+      },
+      {
         company: "Microsoft",
         position: "Full-stack Software Developer (WE Accelerate Project Team Member)",
         time: "May 2021 - August 2021",
