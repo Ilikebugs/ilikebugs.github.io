@@ -36,6 +36,13 @@ export default {
         responsibilities: [
           "Worked with Docker, Ruby on Rails, Nest.js, Fastify, Node.js, Typescript and React on a shipping, storage and delivery app for companies to integrate with online stores and deliver orders to their customers..",
           "Created data adapters and integrated Shopify's API for use in the company's apps, and added order information to the UI for clients.",
+           "In the Integrations team, improved the legacy multi-layered architecture core monolith RESTful API.",
+           "Contributed to the development of a new integrations API to transfer data to the internal core API, with a",
+           "microservices architecture backend written in Ruby on Rails.",
+           "Added new endpoints to the warehouse REST API to update the stock of item variants.",
+           "Created schemas and added CRUD actions for Rutter and BoxKnight products to be introduced to the core API.",
+           "Created a front-end modal that added new online stores to a user’s GoBolt account.",
+           "Submitted over 20 Pull Requests totaling over 1000 lines of code",
         ],
       },
       {
